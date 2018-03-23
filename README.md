@@ -1,6 +1,6 @@
 # 登陆注册页面
 #### 开发环境
-OSX、MyEclipse
+- OSX、MyEclipse
 
 #### 服务器环境
 - tomcat7.0
